@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Rutika Patil. 
-CSE student currently in TY B.tech.
+🙋‍♀️I am Rutika Patil. 
+👩‍💻 CSE student currently in TY B.tech.
+💻 I’m currently learning MERN stack.
