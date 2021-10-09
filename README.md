@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Rutika Patil. 
-I am CSE student currently in TY B.tech.
+CSE student currently in TY B.tech.
