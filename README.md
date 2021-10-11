@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 🙋‍♀️I am Rutika Patil. <br/>
 👩‍💻 CSE student currently in TY B.tech.<br/>
 💻 I’m currently learning MERN stack.
+
+![](https://komarev.com/ghpvc/?username=Rutika2001&color=green)
