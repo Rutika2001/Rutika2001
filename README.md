@@ -27,8 +27,6 @@ Here are some ideas to get you started:
   <img align="left" alt="Instagram" width="22px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667"/>
 </a>
 
-<a target="_blank" href="https://leetcode.com/rutika_3141/">
-  <img align="left" alt="Instagram" width="80px" src="https://camo.githubusercontent.com/9009e098c2603c3e657e7f1754da9a88ba7ca17cbbc95abbac4257b26ec6ff8a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c656574436f64652d4646413131363f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d626c61636b"/>
-</a>
+
 
 ![](https://komarev.com/ghpvc/?username=Rutika2001&color=green)
