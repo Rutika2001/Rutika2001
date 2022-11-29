@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🙋‍♀️I am Rutika Patil. <br/>
-👩‍💻 CSE student currently in TY B.tech.<br/>
+👩‍💻 CSE student currently in Final year B.tech.<br/>
 💻 I’m currently learning MERN stack.
 
 
