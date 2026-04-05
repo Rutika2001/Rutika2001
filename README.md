@@ -1,6 +1,6 @@
 # Hi, I'm Rutika 👩‍💻
 
-💻 SDE II | Frontend Developer  
+💻 SDE II | Software Developer  
 ⚛️ React | TypeScript | JavaScript | HTML | CSS  | Angular | Recoil
 
 ---
